@@ -1,0 +1,14 @@
+layout_spectrum: 0.7447470931801945
+typography_spectrum: 0.7608913509175181
+color:
+  brandStrength: 0.8625733302906156
+  lightness: 0.23981161136180162
+  saturation: 0.9598455314990133
+  rhythmicContrast: 0.9607461884152144
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Spark-O-Matic
