@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Spark-O-Matic]]></title>
+        <description><![CDATA[Spark-O-Matic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jul 2016 17:53:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Medium PI - Main Title]]></title>
+            <description><![CDATA[<article><h1>Medium PI - Main Title</h1><p>This is "Medium PI - Main Title" by sparrgrove on Vimeo, the home for high quality videos and the people who love them.</p></article>]]></description>
+            <link>https://vimeo.com/8070877</link>
+            <guid isPermaLink="false">904f8507-c73d-4667-9ee9-dbb4931a6380</guid>
+            <pubDate>Tue, 05 Jul 2016 17:52:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
